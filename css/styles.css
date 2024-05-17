@@ -40,11 +40,13 @@ p.centrar {
     font-size: 25px;
     color: pink;
     border: 10px dashed #be95c4;
+    border-width: thick;
 }
 .amarillo {
     font-size: 25px;
     color: yellow;
     border: 10px double #9f86c0;
+    border-width: 10px 20px;
 }
 .morado {
     font-size: 25px;
