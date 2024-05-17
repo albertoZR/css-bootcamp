@@ -34,7 +34,9 @@ p.centrar {
 .rojo {
     font-size: 25px;
     color: red;
-    border: 10px solid #e0b1cb;
+    border: 10px solid;
+    border-color: #e0b1cb #be95c4;
+    border-radius: 15px;
 }
 .rosa {
     font-size: 25px;
@@ -77,4 +79,10 @@ p.centrar {
     font-size: 25px;
     color: black;
     border-style: dashed dotted double ridge;
+}
+.redondeado {
+    font-size: 25px;
+    color: black;
+    border: 10px solid #e0b1cb;
+    border-radius: 20px 0px 10px 0px;
 }
