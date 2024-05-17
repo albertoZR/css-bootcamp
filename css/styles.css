@@ -1,0 +1,53 @@
+/*
+Color palette: 
+#231942
+#5e548e
+#9f86c0
+#be95c4
+#e0b1cb
+
+Gardient palette:
+#f6d5f7
+#fbe9d7
+*/
+
+*{
+    background-color: antiquewhite;
+}
+#title {
+    color: #231942;
+    text-align: center;
+}
+.centrar {
+    text-align: center;
+}
+.texto-grande {
+    font-size: 20px;
+}
+h2, p {
+    color: #5e548e;
+    text-align: center;
+}
+p.centrar {
+    text-align: center;
+}
+.rojo {
+    font-size: 25px;
+    color: red;
+    border: 10px solid #e0b1cb;
+}
+.rosa {
+    font-size: 25px;
+    color: pink;
+    border: 10px dashed #be95c4;
+}
+.amarillo {
+    font-size: 25px;
+    color: yellow;
+    border: 10px double #9f86c0;
+}
+.morado {
+    font-size: 25px;
+    color: purple;
+    border: 10px dotted #5e548e;
+}
