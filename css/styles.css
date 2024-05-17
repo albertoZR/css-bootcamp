@@ -51,3 +51,28 @@ p.centrar {
     color: purple;
     border: 10px dotted #5e548e;
 }
+.surco {
+    font-size: 25px;
+    color: black;
+    border: 10px groove;
+}
+.ridge {
+    font-size: 25px;
+    color: black;
+    border: 10px ridge;
+}
+.inset {
+    font-size: 25px;
+    color: black;
+    border: 10px inset;
+}
+.outset{
+    font-size: 25px;
+    color: black;
+    border: 10px outset;
+}
+.mixto {
+    font-size: 25px;
+    color: black;
+    border-style: dashed dotted double ridge;
+}
