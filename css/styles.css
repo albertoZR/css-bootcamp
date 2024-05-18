@@ -13,6 +13,8 @@ Gardient palette:
 
 *{
     background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
 }
 #title {
     color: #231942;
@@ -85,4 +87,14 @@ p.centrar {
     color: black;
     border: 10px solid #e0b1cb;
     border-radius: 20px 0px 10px 0px;
+}
+.boxmodel {
+    padding: 10px;
+    border: 0 solid #be95c4;
+    margin: 0;
+    background-color: #e0b1cb;
+    width: 300px;
+    /*outline: 10px solid #9f86c0;
+    outline-offset: 10px;*/
+    box-sizing: border-box;
 }
